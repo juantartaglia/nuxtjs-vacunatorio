@@ -1,0 +1,151 @@
+{
+  "pediatria": [
+    {
+      "id": 1,
+      "edad": "Recien Nacido",
+      "bcg": { "id": 2, "texto": "1ra. Dosis", "dosis": 1 },
+      "hepB": { "id": 8, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+    {
+      "id": 2,
+      "edad": "2 Meses",
+      "cuadruple": { "id": 23, "texto": "1ra Dosis", "dosis": 1 },
+      "hepB": { "id": 8, "texto": "2da. Dosis", "dosis": 2 },
+      "neumococo": { "id": 25, "texto": "1ra. Dosis", "dosis": 1 },
+      "rotavirus": { "id": 24, "texto": "1ra. Dosis", "dosis": 1 },
+      "sabin": { "id": 7, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+    {
+      "id": 3,
+      "edad": "3 Meses",
+      "meningococo": { "id": 26, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+    {
+      "id": 4,
+      "edad": "4 Meses",
+      "cuadruple": { "id": 23, "texto": "2da. Dosis", "dosis": 2 },
+      "hepB": { "id": 8, "texto": "3ra. Dosis", "dosis": 3 },
+      "neumococo": { "id": 25, "texto": "2da. Dosis", "dosis": 2 },
+      "rotavirus": { "id": 24, "texto": "2da. Dosis", "dosis": 2 },
+      "sabin": { "id": 7, "texto": "2da. Dosis", "dosis": 2 }
+    },
+    {
+      "id": 5,
+      "edad": "5 Meses",
+      "meningococo": { "id": 26, "texto": "2da. Dosis", "dosis": 2 }
+    },
+    {
+      "id": 6,
+      "edad": "6 Meses",
+      "cuadruple": { "id": 23, "texto": "3ra. Dosis", "dosis": 3 },
+      "hepB": { "id": 8, "texto": "4ta. Dosis", "dosis": 4 },
+      "gripe": { "id": 5, "texto": "1ra. Dosis", "dosis": 1 },
+      "sabin": { "id": 7, "texto": "3ra. Dosis", "dosis": 3 }
+    },
+
+    {
+      "id": 7,
+      "edad": "12 Meses",
+      "hepA": { "id": 4, "texto": "1ra. Dosis", "dosis": 1 },
+      "tripleViral": { "id": 27, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+    {
+      "id": 8,
+      "edad": "15 Meses",
+      "meningococo": { "id": 26, "texto": "3ra. Dosis", "dosis": 3 },
+      "varicela": { "id": 15, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+    {
+      "id": 9,
+      "edad": "18 Meses",
+      "cuadruple": { "id": 23, "texto": "4ta. Dosis", "dosis": 4 },
+      "gripe": { "id": 5, "texto": "2da. Dosis", "dosis": 2 },
+      "sabin": { "id": 7, "texto": "4ta. Dosis", "dosis": 4 }
+    },
+    {
+      "id": 10,
+      "edad": "5 Años",
+      "tripleBacteriana": { "id": 14, "texto": "1ra. Dosis", "dosis": 1 },
+      "tripleViral": { "id": 27, "texto": "2ra. Dosis", "dosis": 2 },
+      "sabin": { "id": 7, "texto": "5ta. Dosis", "dosis": 5 }
+    },
+    {
+      "id": 11,
+      "edad": "11 Años",
+      "tripleBacteriana": { "id": 14, "texto": "2da. Dosis", "dosis": 2 },
+      "tripleViral": { "id": 27, "texto": "3ra. Dosis", "dosis": 3 },
+      "hepB": { "id": 8, "texto": "5ta. Dosis", "dosis": 5 },
+      "hpv": { "id": 21, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+    {
+      "id": 12,
+      "edad": "16 Años",
+      "doble": { "id": 28, "texto": "1ra. Dosis", "dosis": 1 }
+    }
+  ],
+  "adultos": [
+    {
+      "id": 1,
+      "edad": "19 a 26 años",
+      "doble": { "id": 28, "texto": "1ra. Dosis", "dosis": 1 },
+      "gripe": { "id": 5, "texto": "1ra. Dosis", "dosis": 1 },
+      "hepA": { "id": 4, "texto": " 1ra. dosis", "dosis": 1 },
+      "hepB": { "id": 8, "texto": "1ra. Dosis", "dosis": 1 },
+      "hpv": { "id": 21, "texto": "1ra.Dosis", "dosis": 1 },
+      "meningococo": { "id": 26, "texto": "1ra. Dosis", "dosis": 1 },
+      "neumococo23": { "id": 29, "texto": "1ra. Dosis", "dosis": 1 },
+      "tripleBacteriana": { "id": 14, "texto": "1ra. Dosis", "dosis": 1 },
+      "tripleViral": { "id": 27, "texto": "1ra. Dosis", "dosis": 1 },
+      "varicela": { "id": 15, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+    {
+      "id": 2,
+      "edad": "27 a 49 años",
+      "doble": { "id": 28, "texto": "1ra. Dosis", "dosis": 1 },
+      "gripe": { "id": 5, "texto": "1ra. Dosis", "dosis": 1 },
+      "hepA": { "id": 4, "texto": " 1ra. dosis", "dosis": 1 },
+      "hepB": { "id": 8, "texto": "1ra. Dosis", "dosis": 1 },
+      "meningococo": { "id": 26, "texto": "1ra. Dosis", "dosis": 1 },
+      "neumococo23": { "id": 29, "texto": "1ra.. Dosis", "dosis": 1 },
+      "tripleBacteriana": { "id": 14, "texto": "1ra. Dosis", "dosis": 1 },
+      "tripleViral": { "id": 27, "texto": "1ra. Dosis", "dosis": 1 },
+      "varicela": { "id": 15, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+
+    {
+      "id": 3,
+      "edad": "50 a 64 años",
+      "doble": { "id": 28, "texto": "1ra. Dosis", "dosis": 1 },
+      "gripe": { "id": 5, "texto": "1ra. Dosis", "dosis": 1 },
+      "hepA": { "id": 4, "texto": " 1ra. dosis", "dosis": 1 },
+      "hepB": { "id": 8, "texto": "1ra. Dosis", "dosis": 1 },
+      "neumococo13": { "id": 30, "texto": "1ra.Dosis", "dosis": 1 },
+      "meningococo": { "id": 26, "texto": "1ra. Dosis", "dosis": 1 },
+      "neumococo23": { "id": 29, "texto": "1ra. Dosis", "dosis": 1 },
+      "tripleBacteriana": { "id": 14, "texto": "1ra. Dosis", "dosis": 1 },
+      "tripleViral": { "id": 27, "texto": "1ra. Dosis", "dosis": 1 },
+      "varicela": { "id": 15, "texto": "1ra. Dosis", "dosis": 1 },
+      "herpes": { "id": 22, "texto": "1ra. Dosis", "dosis": 1 }
+    },
+
+    {
+      "id": 4,
+      "edad": "Mayores de 65 años",
+      "doble": { "id": 28, "texto": "1ra. Dosis", "dosis": 1 },
+      "gripe": { "id": 5, "texto": "1ra. Dosis", "dosis": 1 },
+      "hepA": { "id": 4, "texto": " 1ra. dosis", "dosis": 1 },
+      "hepB": { "id": 8, "texto": "1ra. Dosis", "dosis": 1 },
+      "neumococo13": { "id": 30, "texto": "2da.Dosis", "dosis": 2 },
+      "meningococo": { "id": 26, "texto": "1ra. Dosis", "dosis": 1 },
+      "neumococo23": { "id": 29, "texto": "2da. Dosis", "dosis": 2 },
+      "tripleBacteriana": { "id": 14, "texto": "1ra. Dosis", "dosis": 1 },
+      "tripleViral": { "id": 27, "texto": "1ra. Dosis", "dosis": 1 },
+      "varicela": { "id": 15, "texto": "1ra. Dosis", "dosis": 1 },
+      "herpes": { "id": 22, "texto": "1ra. Dosis", "dosis": 1 }
+    }
+  ],
+  "embarazadas": [
+    { "id": 1, "edad": "Embarazada", "gripe": true },
+    { "id": 2, "edad": "5 Meses de embarazo", "tripleBacteriana": true }
+  ]
+}
